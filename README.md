@@ -13,7 +13,7 @@
 - 🎯 Skilled in **Core Java, SQL, DBMS, MySQL**  
 - 🌐 Building **Frontend Projects** using **HTML, CSS, JavaScript, Bootstrap**  
 -  **Next Step:** MERN Stack (MongoDB, Express.js, React.js, Node.js) 
-- 💡 Exploring **Data Structures & Algorithms** alongside development  
+- 💡 Learning **Data Structures & Algorithms** soon  
 - 🤝 Open to collaborate on **Java & Web Development Projects**  
 
 ---
