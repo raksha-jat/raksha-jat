@@ -49,6 +49,6 @@
 ---
 
 <h3 align="center" style="color:#27AE60;">
-✨ "Code. Learn. Build. Repeat." ✨
+🚀 "From Java to MERN — a journey of endless learning."
 </h3>
 
