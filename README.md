@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:40px; color:#2F80ED;">
-  Hi 👋, I'm Raksha Jat
+  👩‍💻 Coding my way through Java, SQL & Frontend — I'm Raksha Jat
 </h1>
 
 <p align="center">
