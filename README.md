@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate Java Developer | 🌱 MERN Stack Learner | 💻 DSA Enthusiast
+  🚀 Passionate Java Developer | 🌱 MERN Stack & 💻 DSA Learner
 </p>
 
 ---
