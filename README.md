@@ -26,11 +26,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-jat&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raksha-jat&theme=radical)
+
 </div>
 
 ---
